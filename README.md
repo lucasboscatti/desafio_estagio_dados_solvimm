@@ -18,7 +18,7 @@ Para executar este notebook, usaremos o [Google Colaboratory](https://colab.rese
 
 ![](https://github.com/lucasboscatti/desafio_estagio_dados_solvimm/blob/main/images/colab2.png)
 
-4) Faça download dos datasets e faca upload na pasta raiz do google drive.
+4) Faça download dos datasets e realize o upload na pasta raiz do seu google drive.
 
 Links para os datasets:
 - Base1:

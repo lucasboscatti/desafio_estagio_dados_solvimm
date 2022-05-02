@@ -31,7 +31,7 @@ https://drive.google.com/file/d/1C_T1w8fc7Oa8MeTo4LMTEcv90IfEOS-6/view?usp=shari
 
 ![](https://github.com/lucasboscatti/desafio_estagio_dados_solvimm/blob/main/images/colab5.png)
 
-6) Abri-rá uma nova janela, pedindo permissão para acessar seus arquivos no google drive. Selecione a conta na qual você subiu os datasets e clique em permitir.
+6) Abrirá uma nova janela, pedindo permissão para acessar seus arquivos no google drive. Selecione a conta na qual você subiu os datasets e clique em permitir.
 
 6) Agora basta executar as células de código que estão no notebook.
     

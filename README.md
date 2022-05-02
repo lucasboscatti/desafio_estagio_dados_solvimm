@@ -18,12 +18,7 @@ Para executar este notebook, usaremos o [Google Colaboratory](https://colab.rese
 
 ![](https://github.com/lucasboscatti/desafio_estagio_dados_solvimm/blob/main/images/colab2.png)
 
-Agora vamos subir nossos datasets para o Google Colaboratory.
-
-4) Clique no ícone parecido com uma pasta à esquerda da tela. 
-5) Agora clique no ícone de upload e procure pela pasta onde foram feito os downloads dos datasets.
-
-![](https://github.com/lucasboscatti/desafio_estagio_dados_solvimm/blob/main/images/colab3.png)
+4) Faça download dos datasets e faca upload na pasta raiz do google drive.
 
 Links para os datasets:
 - Base1:
@@ -31,6 +26,12 @@ https://drive.google.com/file/d/1gLsCjaMrL91ECdThq58cZAzB9tPxG18g/view?usp=shari
 
 - Base2:
 https://drive.google.com/file/d/1C_T1w8fc7Oa8MeTo4LMTEcv90IfEOS-6/view?usp=sharing
+
+5) No colab, clique execute a seguinte célula:
+
+![](https://github.com/lucasboscatti/desafio_estagio_dados_solvimm/blob/main/images/colab5.png)
+
+6) Abri-rá uma nova janela, pedindo permissão para acessar seus arquivos no google drive. Selecione a conta na qual você subiu os datasets e clique em permitir.
 
 6) Agora basta executar as células de código que estão no notebook.
     

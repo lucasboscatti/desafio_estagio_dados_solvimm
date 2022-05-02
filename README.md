@@ -12,11 +12,11 @@ Para executar-mos este notebook, usaremos o [Google Colaboratory](https://colab.
 1) Abra [Google Colaboratory]('https://colab.research.google.com/').
 2) Clique em GitHub e cole o link deste repositório https://github.com/lucasboscatti/desafio_estagio_dados_solvimm.
 
-![](https://drive.google.com/thumbnail?id=1prWW7dT8kUVsefXAYI-C3BAmLIoAmrjN)
+![](https://github.com/lucasboscatti/desafio_estagio_dados_solvimm/blob/main/images/colab1.png)
 
 3) Clique em desafio_estagio_dados_solvimm.ipynb e o notebook será aberto.
 
-![](https://drive.google.com/thumbnail?id=15SiDjJjJ2AKAZQ_8rpLBBjF7bsSUDZGL)
+![](https://github.com/lucasboscatti/desafio_estagio_dados_solvimm/blob/main/images/colab2.png)
 
 Agora vamos subir nossos datasets para o Google Colaboratory.
 
@@ -25,7 +25,7 @@ Agora vamos subir nossos datasets para o Google Colaboratory.
 6) Agora clique no ícone de upload e procure pela pasta onde foram feito os downloads dos datasets.
 
 
-![](https://drive.google.com/thumbnail?id=1czGxVv9jFlWhi2jboI6sWZ71o7toarkX)
+![](https://github.com/lucasboscatti/desafio_estagio_dados_solvimm/blob/main/images/colab3.png)
 
 
 Links para os datasets:

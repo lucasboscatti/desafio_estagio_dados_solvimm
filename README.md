@@ -27,7 +27,7 @@ https://drive.google.com/file/d/1gLsCjaMrL91ECdThq58cZAzB9tPxG18g/view?usp=shari
 - Base2:
 https://drive.google.com/file/d/1C_T1w8fc7Oa8MeTo4LMTEcv90IfEOS-6/view?usp=sharing
 
-5) No colab, clique execute a seguinte célula:
+5) No google colaboratory, execute a seguinte célula:
 
 ![](https://github.com/lucasboscatti/desafio_estagio_dados_solvimm/blob/main/images/colab5.png)
 

@@ -1,5 +1,5 @@
-# desafio_estagio_dados_solvimm
-Desafio para o estágio de dados da Solvimm
+# Desafio estágio de Dados da Solvimm
+Este repositório se trata da resolução do desafio para a vaga de estágio de dados na Solvimm. Para isto, foi disponibilizado um roteiro com o link para os datasets, a contextualização do problema, perguntas a serem respondidas e as regras do desafio.
 
 ## Documentação
 
@@ -10,7 +10,7 @@ A explicação do passo a passo utilizado no código e de cada função utilizad
 Para executar este notebook, usaremos o [Google Colaboratory](https://colab.research.google.com/).
 
 1) Abra [Google Colaboratory]('https://colab.research.google.com/').
-2) Clique em GitHub e cole o link deste repositório https://github.com/lucasboscatti/desafio_estagio_dados_solvimm.
+2) Clique em GitHub e cole o link deste repositório https://github.com/lucasboscatti/desafio_estagio_dados_solvimm
 
 ![](https://github.com/lucasboscatti/desafio_estagio_dados_solvimm/blob/main/images/colab1.png)
 
